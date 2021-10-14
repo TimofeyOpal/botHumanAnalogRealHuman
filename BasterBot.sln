@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasterBot", "BasterBot\BasterBot.csproj", "{9AFA3826-D142-4F43-A5C4-A44E764E1955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParceDialogs", "ParceDialogs\ParceDialogs.csproj", "{7BB329EF-0D38-40F9-BA22-C5AC96C207F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFA3826-D142-4F43-A5C4-A44E764E1955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFA3826-D142-4F43-A5C4-A44E764E1955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFA3826-D142-4F43-A5C4-A44E764E1955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFA3826-D142-4F43-A5C4-A44E764E1955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BB329EF-0D38-40F9-BA22-C5AC96C207F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB329EF-0D38-40F9-BA22-C5AC96C207F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB329EF-0D38-40F9-BA22-C5AC96C207F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB329EF-0D38-40F9-BA22-C5AC96C207F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD3E5B8-7F31-45D5-837A-09630C75F9B0}
+	EndGlobalSection
+EndGlobal
