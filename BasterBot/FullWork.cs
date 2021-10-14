@@ -63,7 +63,7 @@ namespace BasterBot
                     int c = random.Next(1000, 5000);
                     System.Threading.Thread.Sleep(c);
                 }
-                int l = random.Next(100000, 500000);
+                int l = random.Next(300000, 600000);
                 System.Threading.Thread.Sleep(l);
             }
 

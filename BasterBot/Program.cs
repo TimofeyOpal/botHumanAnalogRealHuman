@@ -16,18 +16,13 @@ namespace BasterBot
 
             Halper halper = new()
             {
-                accesToken = "", // ваш токен
-                fileDialogs = @"", //путь до файла с полученными диалогами
-                groupId = 111111, // id группы вашего бота
-                maxCountMassage = 10 // максимальное количество сообщений за раз
+                accesToken = "",
+                fileDialogs = @"С:\WriteLines.txt", // файл с диалогами для бота
+                groupId = 1111111, // id группы бота 
+                maxCountMassage = 10 // макс количество сообщений
             };
 
             FullWork work = new(halper);
-
-
-
-
-
 
 
         }
